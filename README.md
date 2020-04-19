@@ -61,7 +61,7 @@ If the todo item already exists it will be overwritten
 
 **Definition**
 
-`get /todos/<identifier>`
+`GET /todos/<identifier>`
 
 **Response**
 
@@ -78,7 +78,7 @@ If the todo item already exists it will be overwritten
 
 **Definition**
 
-`delete /todos/<identifier>`
+`DELETE /todos/<identifier>`
 
 **Response**
 
